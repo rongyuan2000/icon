@@ -7,6 +7,15 @@ DOMAIN-KEYWORD,bhsr.com
 DOMAIN-KEYWORD,acl4.ssr
 
 
+# 国外网盘下载屏蔽vpn
+DOMAIN-SUFFIX,leechall.com
+DOMAIN-SUFFIX,cocoleech.com
+DOMAIN-SUFFIX,simply-debrid.com
+DOMAIN-SUFFIX,hungryleech.com
+DOMAIN-SUFFIX,uploadedpremiumlink.net
+DOMAIN-SUFFIX,deepbrid.com
+DOMAIN-SUFFIX,leechpremium.net
+DOMAIN-SUFFIX,hyperdebrid.net
 
 
 
